@@ -1,6 +1,6 @@
 # hangman
 
-A new Flutter project.
+<img width="150" height="150" src="./images/icon.png" />
 
 ## Getting Started
 
